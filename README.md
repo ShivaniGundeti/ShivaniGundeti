@@ -12,7 +12,7 @@ Welcome to my GitHub! I enjoy **transforming data into actionable insights**, le
 
 ## 🔹 About Me
 - BTech in **Information Technology** (2022–2026)  
-- CGPA: 9.18 | Batch: 64R  
+- CGPA: 9.18 | 
 - Strong in **Python, C, Machine Learning, Data Analysis, Visualization, SQL, Excel, Tableau**  
 - Passionate about **data-driven problem-solving and innovative projects**  
 - Open to **full-time and internship opportunities** in analytics, AI, and tech  
@@ -74,7 +74,7 @@ Welcome to my GitHub! I enjoy **transforming data into actionable insights**, le
 ---
 
 ## ⚡ Fun Fact
-I love **turning complex data into visual stories**, exploring **cybersecurity challenges**, and **leading teams to solve real-world problems**.
+I love **integrating my technical skills with real world problems for a positive impact** , **turning complex data into visual stories**, exploring **cybersecurity challenges**, and **leading teams to solve real-world problems**.
 
 <!--
 **ShivaniGundeti/ShivaniGundeti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
